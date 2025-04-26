@@ -36,5 +36,5 @@ Treinar um classificador capaz de prever se uma mensagem SMS é spam, utilizando
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repo.git
-cd nome-do-repo
+git clone https://github.com/itsLuccas/classificacao-sms-spam
+
